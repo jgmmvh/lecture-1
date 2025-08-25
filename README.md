@@ -1,5 +1,5 @@
 # lecture-1
 
 ## About Me
-Hi, I’m <Your Name>.
+Hi, I’m <Joey>.
 I’m learning how to use GitHub Issues.
