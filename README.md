@@ -1,4 +1,5 @@
 # lecture-1
 
-updated locally
-nog een aanpassing
+## About Me
+Hi, I’m <Your Name>.
+I’m learning how to use GitHub Issues.
